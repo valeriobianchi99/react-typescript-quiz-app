@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.triviaquiz",
+    "appName": "triviaquiz",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }

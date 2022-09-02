@@ -1,0 +1,7 @@
+{
+    "name": "triviaquiz",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
